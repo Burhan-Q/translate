@@ -4,6 +4,7 @@ and deepl for language translation services.
 """
 # message/cli.py
 
+import errno
 import logging
 import os
 import shutil
